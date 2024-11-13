@@ -1,0 +1,18 @@
+Copy# .eslintignore
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.next/
+*.d.ts
+pnpm-lock.yaml
+
+# .prettierignore
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.next/
+pnpm-lock.yaml
